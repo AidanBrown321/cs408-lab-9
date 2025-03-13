@@ -2,23 +2,10 @@
 
 ## Overview
 
-TODO: Write a project description
+This is a simple game that generates 25 balls that bounce around the screen. You are in control of the evil circle that can eat the balls that are bouncing. By pressing w, a, s, or d on your keyboard while in the game, you can move the evil circle up, left, down, or right. The score counter in the top right will show you how many more balls are left.
+
+To run: Simply open show and run commands in your IDE and select Live Preview: Start Server.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+I have not used any sources outside of basic JavaScript, HTML, and CSS. I used the start repository provided in class and information from the book but that is all.
